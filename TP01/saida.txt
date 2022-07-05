@@ -1,0 +1,460 @@
+-----
+Proprietario: Kurt Turnbull
+Valor do Imovel: 270000
+Numero de Quartos: 2
+Rua: The Lawns
+Bairro: West Cardoon
+Cidade: Mobile
+Elevador: 1
+-----
+
+-----
+Proprietario: Tyrell Tang
+Valor do Imovel: 315000
+Numero de Quartos: 3
+Rua: Back Road
+Bairro: King Point
+Cidade: Thompson
+Andares: 1
+-----
+
+-----
+Proprietario: Niyah Lewis
+Valor do Imovel: 550000
+Numero de Quartos: 4
+Rua: Blenheim Close
+Bairro: Larch Gardens
+Cidade: Orford
+Andares: 2
+-----
+
+-----
+Proprietario: Libbie Reilly
+Valor do Imovel: 280000
+Numero de Quartos: 2
+Rua: Rose Street
+Bairro: Prospect Place
+Cidade: Hoquiam
+Elevador: 1
+-----
+
+-----
+Proprietario: Szymon Gallegos
+Valor do Imovel: 800000
+Numero de Quartos: 5
+Rua: Seymour Road
+Bairro: Saddle Forest
+Cidade: Saint Boniface
+Piscina: 1
+-----
+
+-----
+Proprietario: Lila Ellison
+Valor do Imovel: 195000
+Numero de Quartos: 2
+Rua: Orchard Way
+Bairro: Ripple Point
+Cidade: Chulmleigh
+Elevador: 1
+-----
+
+-----
+Proprietario: Tomi French
+Valor do Imovel: 160000
+Numero de Quartos: 1
+Rua: Waverley Road
+Bairro: Fort Nutmeg
+Cidade: Newton-le-Willows
+Elevador: 0
+-----
+
+-----
+Proprietario: Amani Riley
+Valor do Imovel: 300000
+Numero de Quartos: 2
+Rua: Broadway
+Bairro: Teal Square
+Cidade: Penrith
+Andares: 1
+-----
+
+-----
+Proprietario: Menaal Keeling
+Valor do Imovel: 600000
+Numero de Quartos: 3
+Rua: Laburnum Grove
+Bairro: Mount Woodruff
+Cidade: Higham Ferrers
+Piscina: 1
+-----
+
+-----
+Proprietario: Darragh Benton
+Valor do Imovel: 180000
+Numero de Quartos: 1
+Rua: Bridge Street
+Bairro: Annatto City
+Cidade: Staunton
+Elevador: 0
+-----
+
+-----
+Proprietario: Damien Boyce
+Valor do Imovel: 900000
+Numero de Quartos: 3
+Rua: Elm Close
+Bairro: Sallow Plains
+Cidade: Great Dunmow
+Andares: 3
+-----
+
+-----
+Proprietario: Nina Hunter
+Valor do Imovel: 500000
+Numero de Quartos: 2
+Rua: Parsonage Lane
+Bairro: Maroon Hook
+Cidade: Cherokee
+Elevador: 1
+-----
+
+-----
+Proprietario: Simone Ashley
+Valor do Imovel: 255000
+Numero de Quartos: 2
+Rua: Wisdom
+Bairro: Parsonage Lane
+Cidade: Penrith
+Andares: 1
+-----
+
+-----
+Proprietario: Millie-Mae Carr
+Valor do Imovel: 265000
+Numero de Quartos: 2
+Rua: Mary Street
+Bairro: Myers Falls
+Cidade: Eastchester
+Elevador: 1
+-----
+
+-----
+Proprietario: Lila Ellison
+Valor do Imovel: 236000
+Numero de Quartos: 3
+Rua: Back Road
+Bairro: Saddle Forest
+Cidade: Orford
+Piscina: 1
+-----
+
+-----
+Proprietario: Kendall Muir
+Valor do Imovel: 200000
+Numero de Quartos: 1
+Rua: Kings Road
+Bairro: Amethyst Point
+Cidade: Shiprock
+Elevador: 1
+-----
+
+-----
+Proprietario: Georgina Hendrix
+Valor do Imovel: 290000
+Numero de Quartos: 2
+Rua: Woodhouse Lane
+Bairro: Queen Bay
+Cidade: Busselton
+Andares: 1
+-----
+
+-----
+Proprietario: Simone Ashley
+Valor do Imovel: 770000
+Numero de Quartos: 4
+Rua: Windmill Lane
+Bairro: Teal Wharf
+Cidade: Uckfield
+Andares: 2
+-----
+
+-----
+Proprietario: Simone Ashley
+Valor do Imovel: 455000
+Numero de Quartos: 3
+Rua: Winterfield
+Bairro: Aston
+Cidade: Eastchester
+Andares: 1
+-----
+
+-----
+Proprietario: Amani Riley
+Valor do Imovel: 100000
+Numero de Quartos: 2
+Rua: Back Road
+Bairro: Saddle Forest
+Cidade: Saint Boniface
+Piscina: 1
+-----
+
+-----
+Proprietario: Amani Riley
+Valor do Imovel: 670000
+Numero de Quartos: 4
+Rua: Seymour Road
+Bairro: West Cardoon
+Cidade: Great Dunmow
+Elevador: 1
+-----
+
+-----
+Proprietario: Lila Ellison
+Valor do Imovel: 275000
+Numero de Quartos: 2
+Rua: Stark Road
+Bairro: Ripple Park
+Cidade: Hoquiam
+Elevador: 1
+-----
+
+-----
+Proprietario: Lila Ellison
+Valor do Imovel: 170000
+Numero de Quartos: 2
+Rua: Fisher Square
+Bairro: Hansa Plaza
+Cidade: Staunton
+Elevador: 0
+-----
+
+-----
+Proprietario: Georgina Hendrix
+Valor do Imovel: 332000
+Numero de Quartos: 4
+Rua: Hoffman Road
+Bairro: West Cardoon
+Cidade: Staunton
+Elevador: 1
+-----
+
+-----
+Proprietario: Darragh Benton
+Valor do Imovel: 355000
+Numero de Quartos: 2
+Rua: Denton
+Bairro: Eastchester
+Cidade: 97
+Andares: 1
+-----
+
+-----
+Proprietario: Tomi French
+Valor do Imovel: 615000
+Numero de Quartos: 3
+Rua: Norton
+Bairro: Lower Byzantine
+Cidade: Chulmleigh
+Andares: 1
+-----
+
+-----
+Proprietario: Tomi French
+Valor do Imovel: 421000
+Numero de Quartos: 4
+Rua: Seymour Road
+Bairro: West Cardoon
+Cidade: Great Dunmow
+Elevador: 1
+-----
+
+-----
+Proprietario: Simone Ashley
+Valor do Imovel: 295000
+Numero de Quartos: 2
+Rua: Amazon
+Bairro: Cobalt Walk
+Cidade: Mobile
+Andares: 1
+-----
+
+-----
+Proprietario: Nina Hunter
+Valor do Imovel: 333000
+Numero de Quartos: 2
+Rua: Sailor Field
+Bairro: Lower Byzantine
+Cidade: Busselton
+Elevador: 1
+-----
+
+-----
+Proprietario: Nina Hunter
+Valor do Imovel: 743000
+Numero de Quartos: 4
+Rua: Square Park
+Bairro: West Cardoon
+Cidade: Great Dunmow
+Elevador: 1
+-----
+
+-----
+Proprietario: Libbie Reilly
+Valor do Imovel: 223000
+Numero de Quartos: 3
+Rua: Turton
+Bairro: Aston
+Cidade: Uckfield
+Andares: 1
+-----
+
+-----
+Proprietario: Szymon Gallegos
+Valor do Imovel: 245000
+Numero de Quartos: 3
+Rua: Faith
+Bairro: Aston
+Cidade: Chulmleigh
+Andares: 1
+-----
+
+-----
+Proprietario: Darragh Bentong
+Valor do Imovel: 333000
+Numero de Quartos: 3
+Rua: Blue Lake
+Bairro: Snow Neck
+Cidade: Hoquiam
+Piscina: 1
+-----
+
+-----
+Proprietario: Libbie Reilly
+Valor do Imovel: 628000
+Numero de Quartos: 4
+Rua: Seymour Road
+Bairro: West Cardoon
+Cidade: Busselton
+Elevador: 1
+-----
+
+-----
+Proprietario: Nina Hunter
+Valor do Imovel: 272000
+Numero de Quartos: 2
+Rua: Seymour Road
+Bairro: Fiddlehead City
+Cidade: Busselton
+Elevador: 0
+-----
+
+-----
+Proprietario: Amani Riley
+Valor do Imovel: 329000
+Numero de Quartos: 4
+Rua: Seymour Road
+Bairro: West Cardoon
+Cidade: Great Dunmow
+Elevador: 1
+-----
+
+-----
+Proprietario: Nina Hunter
+Valor do Imovel: 666000
+Numero de Quartos: 5
+Rua: Heathan Forest
+Bairro: Mount Woodruff
+Cidade: Higham Ferrers
+Piscina: 1
+-----
+
+-----
+Proprietario: Simone Ashley
+Valor do Imovel: 655000
+Numero de Quartos: 3
+Rua: West road
+Bairro: Aston
+Cidade: Newton-le-Willows
+Andares: 2
+-----
+
+-----
+Proprietario: Georgina Hendrix
+Valor do Imovel: 455000
+Numero de Quartos: 4
+Rua: Winterfield
+Bairro: Aston
+Cidade: Orford
+Andares: 1
+-----
+
+-----
+Proprietario: Kurt Turnbull
+Valor do Imovel: 1e+06
+Numero de Quartos: 6
+Rua: Groove Park
+Bairro: Fawn Neck
+Cidade: Higham Ferrers
+Piscina: 1
+-----
+
+-----
+Proprietario: Libbie Reilly
+Valor do Imovel: 462000
+Numero de Quartos: 4
+Rua: Tatton Road
+Bairro: Amber Plaza
+Cidade: Great Dunmow
+Elevador: 1
+-----
+
+-----
+Proprietario: Menaal Keeling
+Valor do Imovel: 916000
+Numero de Quartos: 3
+Rua: Laburnum Grove
+Bairro: Mount Woodruff
+Cidade: Higham Ferrers
+Piscina: 1
+-----
+
+-----
+Proprietario: Niyah Lewis
+Valor do Imovel: 743000
+Numero de Quartos: 4
+Rua: Laburnum Grove
+Bairro: Mount Cornflower
+Cidade: Higham Ferrers
+Piscina: 1
+-----
+
+-----
+Proprietario: Niyah Lewis
+Valor do Imovel: 888000
+Numero de Quartos: 4
+Rua: Seymour Road
+Bairro: Indigo Village
+Cidade: Newton-le-Willows
+Elevador: 1
+-----
+
+-----
+Proprietario: Kurt Turnbull
+Valor do Imovel: 1.555e+06
+Numero de Quartos: 6
+Rua: Winterfield
+Bairro: Upper Sunrise
+Cidade: Orford
+Andares: 3
+-----
+
+-----
+Proprietario: Simone Ashley
+Valor do Imovel: 255000
+Numero de Quartos: 3
+Rua: Winland
+Bairro: Sun Knigth
+Cidade: Orford
+Andares: 1
+-----
+
